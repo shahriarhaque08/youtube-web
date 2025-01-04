@@ -1,3 +1,6 @@
+*{
+    background-color: chocolate;
+}
 h2{
     background-color: brown;
     padding: 10px;
@@ -9,4 +12,7 @@ h3{
     color: burlywood;
     padding: 10px;
     
+}
+h4{
+    background-color: blue;
 }
